@@ -3,9 +3,9 @@ A refrigerator magnet that helps with recipe ideas and encourages you with philo
 
 This is a MagTag made by adafruit.  I wrote a simple program that publishes a command to an RSS feed via the press of one its face buttons.
 Buttton A sends 'Breakfast'.
-Buttton A sends 'Lunch'.
-Buttton A sends 'Dinner'.
-Buttton A sends 'Wisdom'.
+Buttton B sends 'Lunch'.
+Buttton C sends 'Dinner'.
+Buttton D sends 'Wisdom'.
 I made a program that checks the feed for updates and hosted it on replit. Based on the update it sends prompts to openAI's API to receive a response from its language model.
 The program then publishes the respone to an RSS feed. The magtag checks for updates on the feed and prints the results.
 The replit program can be found in the recipebot folder.
