@@ -6,7 +6,7 @@ Buttton A sends 'Breakfast'.
 Buttton B sends 'Lunch'.
 Buttton C sends 'Dinner'.
 Buttton D sends 'Wisdom'.
-I made a program that checks the feed for updates and hosted it on replit. Based on the update, it sends a modified prompts to openAI's API to receive a response from its language model.
+I made a program that checks the feed for updates and hosted it on replit. Based on the update, it sends a prompt to openAI's API to receive a response from its language model.
 The program then publishes the respone to an RSS feed. The magtag checks for updates on the feed and prints the results.
 The replit program can be found in the recipebot folder.
 
