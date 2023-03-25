@@ -1,4 +1,4 @@
-# FrigitalAssistant
+# Frigital Assistant
 A refrigerator magnet that helps with recipe ideas and encourages you with philosophical poems
 
 This is a MagTag made by adafruit.  I wrote a simple program that publishes a command to an RSS feed via the press of one its face buttons.
